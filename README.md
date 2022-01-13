@@ -1,20 +1,19 @@
-<img src="https://i.giphy.com/media/sTSPaUVZ4xWZhlFLCm/giphy.webp" width="100%">
 
-### Hi, I'm <a href="#">Aditya Raj</a> 👋🏼👨🏻‍💻
 
-I'm a 1st-year Software Engineering/CS Student [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai, pursuing  MCA, who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
+### Hi, I'm <a href="#">Adarsh Kumar Singhg</a> 👋🏼👨🏻‍💻
 
-[![twitter badge](https://img.shields.io/badge/-@aadityadotco-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/aaditya.co)
-[![dev.to badge](https://img.shields.io/badge/-adityaraj3644-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adityaraj3644)
-[![glitch badge](https://img.shields.io/badge/-aaditya.fb-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/aaditya.fb)
-[![twitter badge](https://img.shields.io/badge/-@aaditya.co-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aaditya.co)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityaraj3644@gmail.com)](mailto:adityaraj3644@gmail.com)
+I'm a 2nd-year Software Engineering/CS Student [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai, pursuing  MCA, who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
+
+[![twitter badge](https://img.shields.io/badge/-@aadityadotco-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AdarshK88527002)
+[![dev.to badge](https://img.shields.io/badge/-adityaraj3644-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-singh-458847206)
+[![twitter badge](https://img.shields.io/badge/-@aaditya.co-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/singh_rajputadarsh)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityaraj3644@gmail.com)](mailto:adarshkumarsingh210@gmail.com)
 
 
 
 - I'm currently studying in ... [MCA @CEG Guindy,Anna University](https://ceg.annauniv.edu/) Chennai-600025
 - 🌱 I’m currently learning Software Engineering , Software Architecture and Most Famous Design Patterns
-- 👨‍💻 All of Github Respositories are available  [here](https://github.com/adityaraj3644?tab=repositories)
+- 👨‍💻 All of Github Respositories are available  [here](https://github.com/adarsh7here?tab=repositories)
 - 👯 Looking for an internship or opportunity.
 
 
@@ -28,7 +27,6 @@ I'm a 1st-year Software Engineering/CS Student [@College of Engineering,Anna Uni
 ![CSS](https://img.shields.io/badge/-CSS-fff?&logo=CSS3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 
-![PHP](https://img.shields.io/badge/-PHP-fff?&logo=PHP)
 
 
 
