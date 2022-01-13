@@ -4,10 +4,10 @@
 
 I'm a 2nd-year Software Engineering/CS Student [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai, pursuing  MCA, who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
 
-[![twitter badge](https://img.shields.io/badge/-@aadityadotco-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AdarshK88527002)
-[![dev.to badge](https://img.shields.io/badge/-adityaraj3644-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-singh-458847206)
-[![twitter badge](https://img.shields.io/badge/-@aaditya.co-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/singh_rajputadarsh)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adityaraj3644@gmail.com)](mailto:adarshkumarsingh210@gmail.com)
+[![twitter badge](https://img.shields.io/badge/-@AdarshK88527002-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AdarshK88527002)
+[![dev.to badge](https://img.shields.io/badge/-@adarsh-kumar-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-singh-458847206)
+[![twitter badge](https://img.shields.io/badge/-@singh_rajputadarsh-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/singh_rajputadarsh)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adarshkumarsingh210@gmail.com)](mailto:adarshkumarsingh210@gmail.com)
 
 
 
