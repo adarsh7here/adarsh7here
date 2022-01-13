@@ -1,6 +1,6 @@
 
 
-### Hi, I'm <a href="#">Adarsh Kumar Singhg</a> 👋🏼👨🏻‍💻
+### Hi, I'm <a href="#">Adarsh Kumar Singh</a> 👋🏼👨🏻‍💻
 
 I'm a 2nd-year Software Engineering/CS Student [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai, pursuing  MCA, who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
 
