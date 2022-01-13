@@ -32,9 +32,7 @@ I'm a 2nd-year Software Engineering/CS Student [@College of Engineering,Anna Uni
 
 #### Technologies
 
-![Material Design](https://img.shields.io/badge/-Material%20Design-fff?style=flat&logo=material-design&logoColor=blue)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
-![Markdown](https://img.shields.io/badge/-Markdown-fff?style=flat&logo=markdown&logoColor=black)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-fff?&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
