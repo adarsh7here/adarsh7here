@@ -37,8 +37,6 @@ I'm a 2nd-year Software Engineering/CS Student [@College of Engineering,Anna Uni
 ![MongoDb](https://img.shields.io/badge/-MongoDb-fff?&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
-![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 
 <!-- 
 
