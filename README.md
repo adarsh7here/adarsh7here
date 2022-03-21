@@ -2,7 +2,7 @@
 
 ### Hi, I'm <a href="#">Adarsh Kumar Singh</a> 👋🏼👨🏻‍💻
 
-I'm a 2nd-year Software Engineering/CS Student [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai, pursuing  MCA, who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
+I'm a Final Year Software Engineering/CS Student [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai, pursuing  MCA, who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
 
 [![twitter badge](https://img.shields.io/badge/-@AdarshK88527002-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AdarshK88527002)
 <!-- [![dev.to badge](https://img.shields.io/badge/-@adarsh-kumar-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-singh-458847206) -->
