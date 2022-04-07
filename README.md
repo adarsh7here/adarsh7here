@@ -42,5 +42,5 @@ I'm a Final Year Software Engineering/CS Student [@College of Engineering,Anna U
 
 
 <br>
-<a href="bit.ly/aaditya-co/"><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=adityaraj3644&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj3644&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a> -->
+<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=adityaraj3644&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj3644&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a> -->
 
