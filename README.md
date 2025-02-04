@@ -4,7 +4,6 @@
 
 I'm a Software Engineering/CS from [@College of Engineering,Anna University](https://ceg.annauniv.edu/) at Chennai (MCA), who is passionate about software engineering, Front End Development & DSA. I love to learn and contribute in any and every possible way.<br/>
 
-[![twitter badge](https://img.shields.io/badge/-@AdarshK88527002-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/AdarshK88527002)
 <!-- [![dev.to badge](https://img.shields.io/badge/-@adarsh-kumar-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/adarsh-kumar-singh-458847206) -->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adarshkumarsingh210@gmail.com)](mailto:adarshkumarsingh210@gmail.com)
 
@@ -33,13 +32,8 @@ I'm a Software Engineering/CS from [@College of Engineering,Anna University](htt
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-fff?style=flat&logo=mysql)
-![MongoDb](https://img.shields.io/badge/-MongoDb-fff?&logo=mongodb)
+[Databricks](https://img.shields.io/badge/-Databricks-fff?style=flat&logo=databricks)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-fff?style=flat&logo=open-source-Initiative)
 
 <!-- 
-
-
-<br>
-<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=adityaraj3644&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&theme=graywhite" /><img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj3644&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=ffftheme=graywhite" /></a> -->
-
